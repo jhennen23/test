@@ -1,0 +1,15 @@
+body{
+    font-family: 'Times New Roman', Times, serif sans-serif;
+    background-color: navy;
+}
+h1,h2,h3,.subheading {
+    font-family: 'Times New Roman', Times, serif sans-serif !important;
+}
+h2:hover,h3:hover {
+    color: gray;
+}
+a:hover{
+    color: gray !important;
+    text-decoration: underline;
+}
+   

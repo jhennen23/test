@@ -1,0 +1,42 @@
+body{
+    font-family: Papyrus, Georgia, 'Times New Roman', Times, serif ;
+    background-color: rgba(0, 195, 255, 0.362);
+    color: rgba(0, 0, 0, 0.875);
+    a{
+        color:rgb(94, 134, 134)
+        background-color: black;
+    }
+    background-image: url(https://www.coachesdatabase.com/wp-content/uploads/2019/12/north-carolina-tar-heels-basketball.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,h2{
+    text-align: center;
+}
+img{
+    border: 5px solid black;
+    padding: 5px;
+    height: 250px;
+    /* margin: auto;
+    display: block; */
+}
+.rizz{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: lime;
+    border: 5px dashed yellow;
+    font-size: 400%;
+    font-weight: bolder;
+    background-color: bisque;
+}
+.rizz:hover{
+    font-size: 450%;
+    color:brown;
+    border:5px solid salmon;
+}
+Li{
+    width: fit-content;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: darkslategrey;
+}
